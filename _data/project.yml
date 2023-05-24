@@ -1,17 +1,17 @@
 # The name of the organisation or entity that owns this project
-organisation: "Electric Book Works"
+organisation: "Scott Semple"
 
 # A live web address for the organisation
-url: "http://ebw.co/template"
+url: "https://www.scottsemple.com"
 
 # The default contact email address
-email: "support@electricbookworks.com"
+email: "scott@redlinealpine.com"
 
 # The name of the project of books in this folder.
-name: "The Electric Book template"
+name: "Arrowhead Endurance"
 
 # A one-liner about this project. Useful for Open Graph metadata.
-description: "This is Electric Book template, a way to build websites, books and ebooks from the same master content. Created and maintained by Electric Book Works."
+description: "This is Arrowhead Endurance, a way to apply modern training methods to mountain sports. Created and maintained by Scott Semple."
 
 # The logo of the organisation, saved web-ready in /assets
 logo: "logo.svg"
@@ -29,4 +29,4 @@ language: "en"
 app-id: com.example.myapp
 
 # Version. You must change this with each app update
-version: "1.0.0"
+version: "0.0.1"
